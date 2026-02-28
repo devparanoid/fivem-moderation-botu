@@ -1,4 +1,4 @@
-<h1 align="center">FIVEM Premium Moderasyon botu UCRETSIZ!</h1>
+<h1 align="center">FIVEM Premium Moderasyon botu UCRETSIZ! 50 STAR DA PAYLAŞILACAK</h1>
 
 <p align="center">
   <b>FIVEM Sunucularınızı 10 adım ileriye taşıyacak yenilikçi sistemler, tüm sistemler özenle ve PREMIUM olarak tasarlanmıştır.</b>
