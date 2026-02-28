@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://media.discordapp.net/attachments/1090713272031912047/1477297535973588992/Paranoidbanner.png?ex=69a4400b&is=69a2ee8b&hm=8697de23846932de7ec801f4756fc9e72b7c4bbfdd5ba42898911b498b9e677f&=&format=webp&quality=lossless&width=1876&height=523" alt="Paranoid Banner" width="100%" />
-</p>
-
 <h1 align="center">FIVEM Premium Moderasyon botu UCRETSIZ!</h1>
 
 <p align="center">
